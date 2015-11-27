@@ -1,2 +1,2 @@
-# IslandBuilder
-A 3d Island builder game. Where you can change the terrain by raising/lowering the terrain and placing props.
+# 3D Terrain
+A 3d Terrain builder tool. Where you can change the terrain by raising/lowering the terrain.
